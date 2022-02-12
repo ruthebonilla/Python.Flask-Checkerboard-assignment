@@ -1,0 +1,24 @@
+h2 {
+  color: white;
+  text-align: center;
+  background-color: rgb(153, 108, 153);
+  margin: 20px 280px;
+  border: 3px dotted black;
+}
+
+table {
+  margin-right: auto;
+  margin-left: auto;
+}
+table tr td {
+  width: 50px;
+  height: 50px;
+}
+
+.color1 {
+  background-color: plum;
+}
+
+.color2 {
+  background-color: lightskyblue;
+}
